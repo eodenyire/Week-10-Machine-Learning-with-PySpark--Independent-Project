@@ -24,5 +24,5 @@ Customer churn is a significant challenge in the telecom industry. The goal of t
 
 <p> 6. Documentation and Reporting: Maintain clear documentation throughout the project. Include details about the dataset, preprocessing steps, feature engineering techniques, model selection process, and evaluation results. Summarize the project findings, challenges faced, and lessons learned in a final report.
 
-#Conclusion
+# Conclusion
 The successful completion of this project will provide the telecom company with an accurate machine learning model for predicting customer churn. By identifying customers at risk of churn, the company can implement targeted retention strategies and reduce customer attrition. The use of PySpark's distributed computing capabilities enables efficient handling of large volumes of data, making it an ideal choice for this project. The comprehensive documentation and reporting will ensure the project's reproducibility and facilitate knowledge sharing within the organization.
